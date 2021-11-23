@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string get it from https://replit.com/@MissLilly/TeamDeeCode?v=1",
+      "description": "Pyrogram session string get it from https://replit.com/@AryanVerma14/officialmusicplayer?v=1",
       "required": true
     },
     "BOT_TOKEN": {
