@@ -20,21 +20,7 @@
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /refresh - Refresh admin list
 
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
-
-[![decode](https://img.shields.io/badge/opera%20-Support%20-blue)](https://t.me/operamusicSupport)
-[![decode](https://img.shields.io/badge/opera%20-Updates%20-blue)](https://t.me/operamusicsupports)
-
-
-## ✨ 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 ✨
-
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@AryanVerma14/Operamusicsstringsession#main.py)
  
-
-
-```
-
-
 
 ## 💡 How To Host ❓️
 
@@ -47,3 +33,16 @@
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 - [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/operamusicsupport) creator
+
+# ✨ 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 ✨
+
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@AryanVerma14/Operamusicsstringsession#main.py)
+
+
+### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
+- [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/operamusicsupport) creator
+
+### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
+<a href="https://t.me/operamusicsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/operamusicsupports"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+
