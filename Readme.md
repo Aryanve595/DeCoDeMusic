@@ -6,14 +6,14 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/TeamDeeCode/DeCoDeMusic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TeamDeeCode/DeCoDeMusic?color=red)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TeamDeeCode/DeCoDeMusic)
 ![GitHub](https://img.shields.io/github/license/TeamDeeCode/DeCoDeMusic) 
-<p align="center"><a href="🌟⃟≛⃝🥀𝄞🅾🅿🅴🆁🅰 🅼🆄🆂🅸🅲🆂"> 
+# [𝗗𝗲𝗖𝗼𝗱𝗲 𝗠𝘂𝘀𝗶𝗰](https://t.me/DeCodeMusicBot) 
 
 ![Decode](https://github.com/TeamDeeCode/DeCoDeMusic/blob/Pytgcalls/20211105_114009.gif) 
 
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![](https://img.shields.io/badge/opera%20-Support%20-blue)](https://t.me/operamusicSupport)
+[![](https://img.shields.io/badge/opera%20-Updates%20-blue)](https://t.me/operamusicsupports)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
@@ -32,6 +32,7 @@
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /refresh - Refresh admin list
 
+
 ```
 
 
@@ -46,5 +47,5 @@
 
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aryanve595/officialmusicbot0"><img src="https://img.shields.io/badge/DECODE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aryanve595/officialmusicbot0"><img src="https://img.shields.io/badge/Deploy-HEROKU-blue?style=plastic&logo=heroku&logoColor=red"width="400"heigh="8000" /></a></p>
 
