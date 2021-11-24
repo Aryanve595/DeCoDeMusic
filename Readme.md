@@ -22,8 +22,8 @@
 
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
 
-[![](https://img.shields.io/badge/opera%20-Support%20-blue)](https://t.me/operamusicSupport)
-[![](https://img.shields.io/badge/opera%20-Updates%20-blue)](https://t.me/operamusicsupports)
+[![decode](https://img.shields.io/badge/opera%20-Support%20-blue)](https://t.me/operamusicSupport)
+[![decode](https://img.shields.io/badge/opera%20-Updates%20-blue)](https://t.me/operamusicsupports)
 
 
 ## ✨ 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 ✨
@@ -37,11 +37,6 @@
 
 
 ## 💡 How To Host ❓️
-
-
-# Deploy On Railway
-
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DeCodeOwner/DeCoDeMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ## DEPLOY ON HEROKU 🚀
 
