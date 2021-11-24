@@ -41,8 +41,3 @@
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 - [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/operamusicsupport) creator
-
-### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/operamusicsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/operamusicsupports"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-
