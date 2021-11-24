@@ -6,7 +6,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/TeamDeeCode/DeCoDeMusic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TeamDeeCode/DeCoDeMusic?color=red)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TeamDeeCode/DeCoDeMusic)
 ![GitHub](https://img.shields.io/github/license/TeamDeeCode/DeCoDeMusic) 
-# [𝗗𝗲𝗖𝗼𝗱𝗲 𝗠𝘂𝘀𝗶𝗰](https://t.me/DeCodeMusicBot) 
+# <p align="center"><a href="🌟⃟≛⃝🥀𝄞🅾🅿🅴🆁🅰 🅼🆄🆂🅸🅲🆂"> 
 
 ![Decode](https://github.com/TeamDeeCode/DeCoDeMusic/blob/Pytgcalls/20211105_114009.gif) 
 
