@@ -4,21 +4,3 @@
 <p align="center"><a href="https://t.me/operamusicsupport"><img src="https://telegra.ph/file/75efde256bc0ef9e7fe4d.jpg" width="300"></a></p>
 
 
-## Cᴏᴍᴍᴀɴᴅs
-```
-->Music•Player<-
-=>> *For members* 🎧 
-❍ /play  - play song you requested
-❍ /song  - download songs you want quickly
-❍ /video  - download videos you want quickly
-=>> *Admins only*
-❍ /player - open music player settings panel
-❍ /pause - pause song play
-❍ /resume - resume song play
-❍ /skip - play next song
-❍ /end - stop music play
-❍ /userbotjoin - invite assistant to your chat
-❍ /refresh - Refresh admin list
-
- 
-
